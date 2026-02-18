@@ -1,0 +1,170 @@
+{
+    "Ferrari": {
+        "fullName": "Scuderia Ferrari",
+        "founded": 1950,
+        "championships": 16,
+        "lastChampionship": 2008,
+        "base": "Maranello, Italy",
+        "powerUnit": "Ferrari",
+        "drivers2026": [
+            "Leclerc",
+            "Hamilton"
+        ],
+        "2026Philosophy": "High rake concept with aggressive active aero deployment. Ferrari bet big on the new regulations matching their design philosophy. Massive power unit investment.",
+        "2026Strengths": [
+            "Power unit massive upgrade — best in field potentially",
+            "Active aero suits their high-rake concept",
+            "Two world class drivers — best lineup on grid"
+        ],
+        "2026Weaknesses": [
+            "Historically reliability concerns at worst moments",
+            "Managing two #1 drivers without team orders controversy"
+        ],
+        "history": "Most storied team in F1 history. 16 constructors titles. Tifosi fanbase worldwide. Founded by Enzo Ferrari.",
+        "2026narrative": "The dream team — Hamilton + Leclerc. Either wins the title this year or it's a disaster. All eyes on Maranello.",
+        "teamColour": "#e8002d"
+    },
+    "McLaren": {
+        "fullName": "McLaren F1 Team",
+        "founded": 1966,
+        "championships": 8,
+        "lastChampionship": 1998,
+        "base": "Woking, England",
+        "powerUnit": "Mercedes",
+        "drivers2026": [
+            "Norris",
+            "Piastri"
+        ],
+        "2026Philosophy": "Efficient aero, strong mechanical platform. Conservative approach to active aero implementation. Focus on race pace over qualifying.",
+        "2026Strengths": [
+            "Two young hungry drivers with no ego battles",
+            "Strong 2024-2025 momentum — best chassis in field",
+            "Excellent chassis design team"
+        ],
+        "history": "Senna and Prost era. 8 championships. Massive revival since 2023 after decade in wilderness.",
+        "2026narrative": "The challenger. If Red Bull stumbles, McLaren is ready. Norris vs Piastri could be the title fight.",
+        "teamColour": "#ff8000"
+    },
+    "Mercedes": {
+        "fullName": "Mercedes-AMG Petronas F1 Team",
+        "founded": 2010,
+        "championships": 8,
+        "lastChampionship": 2021,
+        "base": "Brackley, England",
+        "powerUnit": "Mercedes",
+        "drivers2026": [
+            "Russell",
+            "Antonelli"
+        ],
+        "2026Philosophy": "Zero-pod concept evolved. Heavy investment in 2026 power unit development — homologated advantage.",
+        "2026Strengths": [
+            "Potentially best power unit in 2026 — they wrote the rules",
+            "Experience from dominant era",
+            "Antonelli raw pace is extraordinary"
+        ],
+        "history": "Dominant 2014-2021. Hamilton era. 8 championships in a row. Greatest team dynasty in modern F1.",
+        "2026narrative": "Rebuilding after Hamilton left. Can Antonelli be the next superstar? Russell needs to step up.",
+        "teamColour": "#00d2be"
+    },
+    "Red Bull": {
+        "fullName": "Oracle Red Bull Racing",
+        "founded": 2005,
+        "championships": 6,
+        "lastChampionship": 2023,
+        "base": "Milton Keynes, England",
+        "powerUnit": "Honda RBPT",
+        "drivers2026": [
+            "Verstappen",
+            "Hadjar"
+        ],
+        "2026Philosophy": "Aggressive downforce philosophy. Struggling to adapt active aero concept to their design DNA.",
+        "2026Strengths": [
+            "Verstappen is Verstappen — can carry an average car",
+            "Deep engineering talent from dominant era"
+        ],
+        "2026Weaknesses": [
+            "Active aero suits rivals more than their philosophy",
+            "Verstappen unhappy with 2026 regulations",
+            "Honda PU may not be best in class"
+        ],
+        "history": "Vettel 4-peat 2010-2013. Verstappen dynasty 2021-2024. 6 championships total.",
+        "2026narrative": "First time in years they look genuinely beatable. Can Verstappen carry them again?",
+        "teamColour": "#3671c6"
+    },
+    "Aston Martin": {
+        "fullName": "Aston Martin Aramco F1 Team",
+        "powerUnit": "Honda",
+        "drivers2026": [
+            "Alonso",
+            "Stroll"
+        ],
+        "2026form": "Struggling most in testing. Alonso says they have the most work to do of any team.",
+        "2026narrative": "Lawrence Stroll's billions haven't bought competitiveness in 2026 yet. Alonso's patience being tested.",
+        "teamColour": "#358c75"
+    },
+    "Alpine": {
+        "fullName": "BWT Alpine F1 Team",
+        "powerUnit": "Renault",
+        "drivers2026": [
+            "Gasly",
+            "Doohan"
+        ],
+        "2026narrative": "French manufacturer fighting for midfield respectability. Gasly their best hope.",
+        "teamColour": "#0090ff"
+    },
+    "Williams": {
+        "fullName": "Williams Racing",
+        "championships": 7,
+        "lastChampionship": 1997,
+        "powerUnit": "Mercedes",
+        "drivers2026": [
+            "Sainz",
+            "Albon"
+        ],
+        "2026form": "Surprisingly competitive in testing. Most laps completed in Test 1. Dark horse of 2026.",
+        "2026narrative": "Williams renaissance? Sainz joining might be the catalyst for their return to relevance.",
+        "teamColour": "#64c4ff"
+    },
+    "Haas": {
+        "fullName": "MoneyGram Haas F1 Team",
+        "powerUnit": "Ferrari",
+        "drivers2026": [
+            "Ocon",
+            "Bearman"
+        ],
+        "2026narrative": "American team with Ferrari power — can they crack the top 5 consistently?",
+        "teamColour": "#b6babd"
+    },
+    "Audi": {
+        "fullName": "Audi F1 Team",
+        "powerUnit": "Audi",
+        "drivers2026": [
+            "Hulkenberg",
+            "Bortoleto"
+        ],
+        "notable": "Brand new manufacturer entry in 2026. Bought Sauber/Alfa Romeo entry. Massive investment.",
+        "2026narrative": "German engineering giant enters F1. Huge investment but starting from scratch. Watch this space.",
+        "teamColour": "#ffffff"
+    },
+    "Cadillac": {
+        "fullName": "Cadillac F1 Team",
+        "powerUnit": "GM/Cadillac",
+        "drivers2026": [
+            "Perez",
+            "Drugovich"
+        ],
+        "notable": "American manufacturer entry approved after long FIA battle. 11th team on grid. Historic moment.",
+        "2026narrative": "America's own F1 team finally on the grid. Underdogs but historic. Perez their experienced anchor.",
+        "teamColour": "#c8102e"
+    },
+    "Racing Bulls": {
+        "fullName": "Visa CashApp RB F1 Team",
+        "powerUnit": "Honda RBPT",
+        "drivers2026": [
+            "Tsunoda",
+            "Lindblad"
+        ],
+        "2026narrative": "Red Bull's junior team — stepping stone for future stars. Tsunoda their experienced head.",
+        "teamColour": "#6692ff"
+    }
+}

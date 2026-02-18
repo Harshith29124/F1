@@ -1,0 +1,53 @@
+{
+    "comparisons": [
+        {
+            "topic": "Electric Power Output",
+            "2025": "120kW MGU-K, MGU-H recovers energy from turbo exhaust gases",
+            "2026": "350kW MGU-K — nearly 3x more power. MGU-H completely removed.",
+            "impact": "Far more electric power especially on acceleration zones. Battery management becomes critical race strategy element. Drivers will feel massive torque difference.",
+            "tweetAngle": "This is basically a Formula E car with a V6 attached — 350kW electric is INSANE"
+        },
+        {
+            "topic": "Aerodynamics System",
+            "2025": "Fixed wings, teams optimize setup for specific track characteristics. Manual DRS on straights.",
+            "2026": "Active aero — wings adjust angle automatically every corner and straight. No manual DRS.",
+            "impact": "Less setup dependency between tracks, better overtaking, significantly less dirty air for following cars. Should improve racing quality dramatically.",
+            "tweetAngle": "Cars basically have their own permanent DRS that's smarter than any driver could manage"
+        },
+        {
+            "topic": "Car Weight",
+            "2025": "798kg minimum weight — heaviest cars in F1 history",
+            "2026": "Approximately 768kg minimum — 30kg lighter",
+            "impact": "Lighter = faster through corners, better driver feel, more responsive. Back to proper racing car proportions after years of bloated cars.",
+            "tweetAngle": "Finally! F1 cars going on a diet — 30kg lighter means they'll actually feel like racing cars again"
+        },
+        {
+            "topic": "Sustainable Fuel",
+            "2025": "10% sustainable fuel content in fuel mix",
+            "2026": "100% sustainable fuel mandatory — complete transition",
+            "impact": "Massive green milestone for the sport. No performance difference felt by drivers — same energy density achieved.",
+            "tweetAngle": "F1 goes fully green fuel without sacrificing a single horsepower — engineering marvel"
+        },
+        {
+            "topic": "Power Split",
+            "2025": "Approximately 80% combustion, 20% electric contribution",
+            "2026": "50% combustion, 50% electric — equal split for first time ever",
+            "impact": "Unprecedented in F1. Creates entirely new strategic dimension around battery deployment and energy harvesting.",
+            "tweetAngle": "Half electric, half combustion — F1 2026 is genuinely unlike anything we've seen"
+        },
+        {
+            "topic": "MGU-H",
+            "2025": "MGU-H harvests energy from turbo — complex, expensive, unreliable for new manufacturers",
+            "2026": "MGU-H completely abolished — simplified hybrid system",
+            "impact": "Easier for new manufacturers (Audi, Cadillac) to enter. Reduces development cost and complexity. Reliability should improve.",
+            "tweetAngle": "Removing MGU-H was the right call — it was a $50M barrier keeping new teams out of F1"
+        },
+        {
+            "topic": "Car Width",
+            "2025": "2000mm wide — very wide cars limiting wheel to wheel racing",
+            "2026": "Narrower specification — exact mm TBC but significant reduction",
+            "impact": "Narrower cars = more room to race side by side. Better overtaking opportunities especially on tighter circuits.",
+            "tweetAngle": "Narrower cars mean actual wheel to wheel racing instead of processional single file"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "overview": "2026 is F1's biggest regulation overhaul since 2022. New power units with massively increased electric power, active aerodynamics that adjust automatically, and lighter cars. The goal: better racing, more overtaking, sustainable fuel.",
+    "aerodynamics": {
+        "activeAero": "Both front and rear wings actively adjust angle during the lap. Reduces drag on straights automatically, increases downforce in corners automatically. Replaces the manual DRS system entirely.",
+        "downforce": "Overall downforce reduced approximately 30% vs 2025 to compensate for more powerful electric deployment on straights",
+        "groundEffect": "Retained and refined from 2022 regulations — cars still generate significant downforce from the floor",
+        "width": "Cars narrower than 2025 — improved wheel to wheel racing and reduced dirty air effect on following cars",
+        "drs": "Traditional DRS abolished — replaced by active aero system that is always optimizing"
+    },
+    "powerUnit": {
+        "combustion": "1.6L V6 turbo hybrid — retained from previous era but heavily revised internals",
+        "electricMGUK": "350kW output from MGU-K — nearly 3x more than 2025's 120kW. Massive boost especially out of slow corners",
+        "MGUH": "Completely removed — simplified hybrid system. Energy recovery now only from braking via MGU-K",
+        "totalPower": "Approximately 1000bhp combined power output",
+        "fuel": "100% sustainable fuel mandatory — F1's green milestone",
+        "deployment": "More aggressive electric deployment especially out of slow corners. Battery management becomes a critical strategic tool",
+        "split": "50/50 split between combustion and electric power — unprecedented in F1 history"
+    },
+    "chassis": {
+        "weight": "Minimum weight reduced approximately 30kg vs 2025 — back to proper racing car proportions",
+        "dimensions": "Narrower and shorter than 2025 cars — more nimble, better driver feel",
+        "cockpit": "Improved safety structures retained from previous regulations"
+    },
+    "tyres": {
+        "supplier": "Pirelli — new compounds designed for 2026 lighter cars",
+        "sizes": "18-inch wheels retained from 2022 regulations",
+        "compounds": "Revised compounds to handle different thermal loads from new power units"
+    },
+    "impact": "Lighter cars + nearly 3x more electric power = dramatically faster acceleration. Active aero = less dirty air = better following and overtaking. 50/50 power split = new strategic dimension. Should be the most exciting regulation change since 2022.",
+    "keyDates": {
+        "regulationsPublished": "2023",
+        "firstTesting": "February 2026 — Bahrain",
+        "firstRace": "March 2026 — Australia"
+    }
+}

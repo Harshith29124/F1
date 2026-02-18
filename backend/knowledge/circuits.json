@@ -1,0 +1,512 @@
+{
+    "bahrain": {
+        "name": "Bahrain International Circuit",
+        "country": "Bahrain",
+        "city": "Sakhir",
+        "laps": 57,
+        "length": "5.412km",
+        "totalDistance": "308.238km",
+        "characteristics": "High tyre degradation, good overtaking opportunities, hot and abrasive surface, night race",
+        "drsZones": 3,
+        "lapRecord": {
+            "time": "1:31.447",
+            "driver": "Pedro de la Rosa",
+            "year": 2005
+        },
+        "keyCorners": [
+            "Turn 1 heavy braking zone",
+            "Turn 4 hairpin — overtaking spot",
+            "Turn 10 chicane"
+        ],
+        "tweetAngle": "Bahrain — where F1 seasons begin and tyres go to die"
+    },
+    "jeddah": {
+        "name": "Jeddah Corniche Circuit",
+        "country": "Saudi Arabia",
+        "city": "Jeddah",
+        "laps": 50,
+        "length": "6.174km",
+        "totalDistance": "308.45km",
+        "characteristics": "Fastest street circuit in F1, very high speed, minimal runoff, night race, controversial location",
+        "drsZones": 3,
+        "lapRecord": {
+            "time": "1:30.734",
+            "driver": "Lewis Hamilton",
+            "year": 2021
+        },
+        "keyCorners": [
+            "Turn 27 — 300km/h corner",
+            "Turn 1 braking zone",
+            "Final chicane"
+        ],
+        "tweetAngle": "Jeddah — where brave drivers go fast and nervous ones go home"
+    },
+    "australia": {
+        "name": "Albert Park Circuit",
+        "country": "Australia",
+        "city": "Melbourne",
+        "laps": 58,
+        "length": "5.278km",
+        "totalDistance": "306.124km",
+        "characteristics": "Semi-permanent street circuit, bumpy, good racing, season opener atmosphere",
+        "drsZones": 4,
+        "lapRecord": {
+            "time": "1:20.235",
+            "driver": "Charles Leclerc",
+            "year": 2022
+        },
+        "keyCorners": [
+            "Turn 1 — first corner drama every year",
+            "Turn 9-10 chicane",
+            "Turn 15 fast right"
+        ],
+        "tweetAngle": "Melbourne — where the season really begins and chaos always follows"
+    },
+    "japan": {
+        "name": "Suzuka International Racing Course",
+        "country": "Japan",
+        "city": "Suzuka",
+        "laps": 53,
+        "length": "5.807km",
+        "totalDistance": "307.471km",
+        "characteristics": "Figure-8 layout, technical masterpiece, passionate Japanese fans, legendary corners",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:30.983",
+            "driver": "Lewis Hamilton",
+            "year": 2019
+        },
+        "keyCorners": [
+            "S Curves — most technical section",
+            "130R — flat out at 300km/h",
+            "Spoon Curve",
+            "Degner Curves"
+        ],
+        "tweetAngle": "Suzuka — the greatest circuit in the world, full stop. No debate."
+    },
+    "china": {
+        "name": "Shanghai International Circuit",
+        "country": "China",
+        "city": "Shanghai",
+        "laps": 56,
+        "length": "5.451km",
+        "totalDistance": "305.066km",
+        "characteristics": "Long back straight, unique snail-shaped final sector, high tyre degradation",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:32.238",
+            "driver": "Michael Schumacher",
+            "year": 2004
+        },
+        "keyCorners": [
+            "Turn 1-2 hairpin",
+            "Turn 6 fast left",
+            "Final sector snail"
+        ],
+        "tweetAngle": "Shanghai — the circuit that looks like a snail and races like a thriller"
+    },
+    "miami": {
+        "name": "Miami International Autodrome",
+        "country": "USA",
+        "city": "Miami",
+        "laps": 57,
+        "length": "5.412km",
+        "totalDistance": "308.326km",
+        "characteristics": "Street circuit around Hard Rock Stadium, hot and humid, American spectacle",
+        "drsZones": 3,
+        "lapRecord": {
+            "time": "1:29.708",
+            "driver": "Max Verstappen",
+            "year": 2023
+        },
+        "keyCorners": [
+            "Turn 1 braking zone",
+            "Turn 11 chicane",
+            "Final hairpin"
+        ],
+        "tweetAngle": "Miami — where F1 meets American excess and somehow it works perfectly"
+    },
+    "imola": {
+        "name": "Autodromo Enzo e Dino Ferrari",
+        "country": "Italy",
+        "city": "Imola",
+        "laps": 63,
+        "length": "4.909km",
+        "totalDistance": "309.049km",
+        "characteristics": "Historic circuit, limited overtaking, technical, passionate Italian fans, Senna's home",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:15.484",
+            "driver": "Max Verstappen",
+            "year": 2022
+        },
+        "keyCorners": [
+            "Tamburello — where Senna died 1994",
+            "Variante Alta chicane",
+            "Rivazza"
+        ],
+        "tweetAngle": "Imola — sacred ground where Senna raced and F1 history was written in tragedy"
+    },
+    "monaco": {
+        "name": "Circuit de Monaco",
+        "country": "Monaco",
+        "city": "Monte Carlo",
+        "laps": 78,
+        "length": "3.337km",
+        "totalDistance": "260.286km",
+        "characteristics": "Slowest circuit, impossible to overtake, glamour capital, qualifying everything, walls everywhere",
+        "drsZones": 1,
+        "lapRecord": {
+            "time": "1:12.909",
+            "driver": "Lewis Hamilton",
+            "year": 2021
+        },
+        "keyCorners": [
+            "Sainte Devote — Turn 1",
+            "Casino Square",
+            "Tunnel — 280km/h into darkness",
+            "Swimming Pool chicane",
+            "Rascasse"
+        ],
+        "tweetAngle": "Monaco — where qualifying wins the race and overtaking is just a dream"
+    },
+    "canada": {
+        "name": "Circuit Gilles Villeneuve",
+        "country": "Canada",
+        "city": "Montreal",
+        "laps": 70,
+        "length": "4.361km",
+        "totalDistance": "305.27km",
+        "characteristics": "Stop-start circuit, heavy braking, wall of champions, safety car magnet, great racing",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:13.078",
+            "driver": "Valtteri Bottas",
+            "year": 2019
+        },
+        "keyCorners": [
+            "Hairpin — overtaking spot",
+            "Wall of Champions — Turn 13-14",
+            "Final chicane"
+        ],
+        "tweetAngle": "Montreal — where brakes go to die and the Wall of Champions claims another victim"
+    },
+    "spain": {
+        "name": "Circuit de Barcelona-Catalunya",
+        "country": "Spain",
+        "city": "Barcelona",
+        "laps": 66,
+        "length": "4.657km",
+        "totalDistance": "307.236km",
+        "characteristics": "Technical circuit, difficult to overtake, good test of car balance, windy",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:18.149",
+            "driver": "Max Verstappen",
+            "year": 2021
+        },
+        "keyCorners": [
+            "Turn 1 — first corner battles",
+            "Turn 3 fast right",
+            "Turn 9 — Campsa"
+        ],
+        "tweetAngle": "Barcelona — where car setup matters more than driver talent and overtaking is nearly impossible"
+    },
+    "austria": {
+        "name": "Red Bull Ring",
+        "country": "Austria",
+        "city": "Spielberg",
+        "laps": 71,
+        "length": "4.318km",
+        "totalDistance": "306.452km",
+        "characteristics": "Short circuit, lots of overtaking, Red Bull home race, great atmosphere, elevation changes",
+        "drsZones": 3,
+        "lapRecord": {
+            "time": "1:05.619",
+            "driver": "Carlos Sainz",
+            "year": 2020
+        },
+        "keyCorners": [
+            "Turn 1 — massive braking",
+            "Turn 3 — Remus corner",
+            "Turn 4 — Rindt corner"
+        ],
+        "tweetAngle": "Austria — Red Bull's home race where the orange army of Dutch fans always shows up"
+    },
+    "britain": {
+        "name": "Silverstone Circuit",
+        "country": "Great Britain",
+        "city": "Silverstone",
+        "laps": 52,
+        "length": "5.891km",
+        "totalDistance": "306.198km",
+        "characteristics": "High speed, home of F1, passionate British crowd, Copse corner legendary, weather unpredictable",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:27.097",
+            "driver": "Max Verstappen",
+            "year": 2020
+        },
+        "keyCorners": [
+            "Copse — flat out at 300km/h",
+            "Maggotts-Becketts-Chapel complex",
+            "Stowe",
+            "Club corner"
+        ],
+        "tweetAngle": "Silverstone — the home of F1, where British fans make the most noise and Copse corner separates the brave from the rest"
+    },
+    "hungary": {
+        "name": "Hungaroring",
+        "country": "Hungary",
+        "city": "Budapest",
+        "laps": 70,
+        "length": "4.381km",
+        "totalDistance": "306.63km",
+        "characteristics": "Twisty, technical, hot, difficult to overtake, Monaco without the walls",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:16.627",
+            "driver": "Lewis Hamilton",
+            "year": 2020
+        },
+        "keyCorners": [
+            "Turn 1 braking zone",
+            "Turn 2 — tight hairpin",
+            "Turn 11-12 complex"
+        ],
+        "tweetAngle": "Hungary — Monaco without the glamour but with all the processional racing"
+    },
+    "belgium": {
+        "name": "Circuit de Spa-Francorchamps",
+        "country": "Belgium",
+        "city": "Spa",
+        "laps": 44,
+        "length": "7.004km",
+        "totalDistance": "308.052km",
+        "characteristics": "Greatest circuit in the world, Eau Rouge legendary, unpredictable weather, high speed",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:46.286",
+            "driver": "Valtteri Bottas",
+            "year": 2018
+        },
+        "keyCorners": [
+            "Eau Rouge/Raidillon — the most iconic corner in motorsport",
+            "Pouhon",
+            "Blanchimont",
+            "Bus Stop chicane"
+        ],
+        "tweetAngle": "Spa — where legends are made, weather changes every 5 minutes, and Eau Rouge separates the brave from everyone else"
+    },
+    "netherlands": {
+        "name": "Circuit Zandvoort",
+        "country": "Netherlands",
+        "city": "Zandvoort",
+        "laps": 72,
+        "length": "4.259km",
+        "totalDistance": "306.587km",
+        "characteristics": "Banked corners, orange army of Dutch fans, compact circuit, great atmosphere",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:11.097",
+            "driver": "Max Verstappen",
+            "year": 2021
+        },
+        "keyCorners": [
+            "Tarzan hairpin",
+            "Hugenholtz — banked corner",
+            "Arie Luyendijk — banked final corner"
+        ],
+        "tweetAngle": "Zandvoort — where 100,000 orange-clad Dutch fans turn F1 into a home party for Verstappen"
+    },
+    "italy": {
+        "name": "Autodromo Nazionale Monza",
+        "country": "Italy",
+        "city": "Monza",
+        "laps": 53,
+        "length": "5.793km",
+        "totalDistance": "306.72km",
+        "characteristics": "Temple of Speed, fastest circuit, passionate Tifosi, slipstreaming battles, low downforce",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:21.046",
+            "driver": "Rubens Barrichello",
+            "year": 2004
+        },
+        "keyCorners": [
+            "Rettifilo chicane",
+            "Curva Grande",
+            "Lesmo corners",
+            "Parabolica — final corner"
+        ],
+        "tweetAngle": "Monza — the Temple of Speed where Ferrari fans invade the track after every race and slipstreaming decides everything"
+    },
+    "azerbaijan": {
+        "name": "Baku City Circuit",
+        "country": "Azerbaijan",
+        "city": "Baku",
+        "laps": 51,
+        "length": "6.003km",
+        "totalDistance": "306.049km",
+        "characteristics": "Street circuit, long straight, castle section, chaos magnet, safety car guaranteed",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:43.009",
+            "driver": "Charles Leclerc",
+            "year": 2019
+        },
+        "keyCorners": [
+            "Turn 1 braking zone",
+            "Castle section — 7.6m wide",
+            "Turn 8 — tightest corner in F1"
+        ],
+        "tweetAngle": "Baku — where safety cars are mandatory, walls are everywhere, and chaos is the only constant"
+    },
+    "singapore": {
+        "name": "Marina Bay Street Circuit",
+        "country": "Singapore",
+        "city": "Singapore",
+        "laps": 62,
+        "length": "4.94km",
+        "totalDistance": "306.143km",
+        "characteristics": "Night race, hot and humid, physical, street circuit, safety car magnet, spectacular",
+        "drsZones": 3,
+        "lapRecord": {
+            "time": "1:35.867",
+            "driver": "Kevin Magnussen",
+            "year": 2018
+        },
+        "keyCorners": [
+            "Turn 1 — first corner chaos",
+            "Turn 10 hairpin",
+            "Turn 18 — Anderson Bridge"
+        ],
+        "tweetAngle": "Singapore — the most physically demanding night race where humidity is the 21st driver"
+    },
+    "usa": {
+        "name": "Circuit of the Americas",
+        "country": "USA",
+        "city": "Austin",
+        "laps": 56,
+        "length": "5.513km",
+        "totalDistance": "308.405km",
+        "characteristics": "Purpose-built, technical, elevation changes, Turn 1 iconic, great racing",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:36.169",
+            "driver": "Charles Leclerc",
+            "year": 2019
+        },
+        "keyCorners": [
+            "Turn 1 — blind crest overtaking spot",
+            "Turns 12-15 Maggotts-style complex",
+            "Turn 19 hairpin"
+        ],
+        "tweetAngle": "COTA — where America fell in love with F1 and Turn 1 delivers drama every single lap"
+    },
+    "mexico": {
+        "name": "Autodromo Hermanos Rodriguez",
+        "country": "Mexico",
+        "city": "Mexico City",
+        "laps": 71,
+        "length": "4.304km",
+        "totalDistance": "305.354km",
+        "characteristics": "High altitude reduces engine power, unique stadium section, passionate Mexican crowd",
+        "drsZones": 3,
+        "lapRecord": {
+            "time": "1:17.774",
+            "driver": "Valtteri Bottas",
+            "year": 2021
+        },
+        "keyCorners": [
+            "Turn 1-3 complex",
+            "Peraltada — stadium section",
+            "Foro Sol stadium"
+        ],
+        "tweetAngle": "Mexico City — where altitude kills engines, Checo gets a hero's welcome, and the stadium section is unlike anywhere else"
+    },
+    "brazil": {
+        "name": "Autodromo Jose Carlos Pace",
+        "country": "Brazil",
+        "city": "Sao Paulo",
+        "laps": 71,
+        "length": "4.309km",
+        "totalDistance": "305.879km",
+        "characteristics": "Anticlockwise, unpredictable weather, Senna's home, great racing, emotional",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:10.540",
+            "driver": "Valtteri Bottas",
+            "year": 2018
+        },
+        "keyCorners": [
+            "Senna S — Turn 1-2",
+            "Descida do Lago",
+            "Subida dos Boxes"
+        ],
+        "tweetAngle": "Interlagos — Senna's home, where rain can fall any moment and the most dramatic races in F1 history have happened"
+    },
+    "lasvegas": {
+        "name": "Las Vegas Strip Circuit",
+        "country": "USA",
+        "city": "Las Vegas",
+        "laps": 50,
+        "length": "6.201km",
+        "totalDistance": "309.958km",
+        "characteristics": "Night race on the Strip, long straight, cold temperatures, spectacle over substance",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:35.490",
+            "driver": "Oscar Piastri",
+            "year": 2023
+        },
+        "keyCorners": [
+            "Koval chicane",
+            "Harmon hairpin",
+            "MSG sphere section"
+        ],
+        "tweetAngle": "Las Vegas — where F1 meets the Strip and the spectacle is bigger than the racing"
+    },
+    "qatar": {
+        "name": "Lusail International Circuit",
+        "country": "Qatar",
+        "city": "Lusail",
+        "laps": 57,
+        "length": "5.38km",
+        "totalDistance": "306.66km",
+        "characteristics": "High speed, flowing layout, hot and humid, tyre degradation, night race",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:24.319",
+            "driver": "Max Verstappen",
+            "year": 2023
+        },
+        "keyCorners": [
+            "Turn 1 high speed",
+            "Turn 6 chicane",
+            "Turn 14-16 complex"
+        ],
+        "tweetAngle": "Qatar — where tyres last about 10 laps and strategy becomes everything"
+    },
+    "abudhabi": {
+        "name": "Yas Marina Circuit",
+        "country": "UAE",
+        "city": "Abu Dhabi",
+        "laps": 58,
+        "length": "5.281km",
+        "totalDistance": "306.183km",
+        "characteristics": "Season finale, twilight race, Yas Marina hotel, controversial 2021 ending",
+        "drsZones": 2,
+        "lapRecord": {
+            "time": "1:26.103",
+            "driver": "Max Verstappen",
+            "year": 2021
+        },
+        "keyCorners": [
+            "Turn 5-6 complex",
+            "Turn 9 hairpin",
+            "Turn 11 hotel section"
+        ],
+        "tweetAngle": "Abu Dhabi — where seasons end, titles are decided, and 2021 will never be forgotten"
+    }
+}

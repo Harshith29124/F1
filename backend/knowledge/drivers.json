@@ -1,0 +1,533 @@
+{
+    "LEC": {
+        "fullName": "Charles Leclerc",
+        "firstName": "Charles",
+        "lastName": "Leclerc",
+        "team": "Ferrari",
+        "number": 16,
+        "nationality": "Monegasque",
+        "dob": "1997-10-16",
+        "championships": 2,
+        "wins": 12,
+        "poles": 28,
+        "podiums": 42,
+        "fastestLaps": 8,
+        "careerStart": 2018,
+        "strengths": [
+            "qualifying pace",
+            "wet weather",
+            "street circuits",
+            "aggressive style",
+            "one-lap pace"
+        ],
+        "weaknesses": [
+            "historically tyre management in race",
+            "mechanical issues cost him 2022 title"
+        ],
+        "personality": "Emotional, passionate, fan favorite, plays piano, very popular on social media",
+        "rivalries": [
+            "Verstappen",
+            "Hamilton",
+            "Sainz"
+        ],
+        "notable": [
+            "Lost 2022 WDC from P1 in standings mid-season due to reliability",
+            "Won Monaco GP 2024 ending years of heartbreak at home race",
+            "First Monegasque driver to win Monaco GP",
+            "2x World Champion 2024 and 2025"
+        ],
+        "2026form": "Fastest in Bahrain Test Day 1 — 1:33.739. Ferrari's active aero philosophy suits his aggressive driving style perfectly. Looks like a title favourite.",
+        "twitterAngle": "The people's champion who keeps delivering despite the chaos around him",
+        "funFacts": [
+            "Plays piano to professional level",
+            "Grew up 2km from Monaco circuit",
+            "Best friends with Pierre Gasly since karting days"
+        ]
+    },
+    "HAM": {
+        "fullName": "Lewis Hamilton",
+        "firstName": "Lewis",
+        "lastName": "Hamilton",
+        "team": "Ferrari",
+        "number": 44,
+        "nationality": "British",
+        "championships": 7,
+        "wins": 103,
+        "poles": 104,
+        "podiums": 197,
+        "careerStart": 2007,
+        "strengths": [
+            "race craft",
+            "wet weather",
+            "consistency",
+            "tyre management",
+            "mental strength"
+        ],
+        "weaknesses": [
+            "2022-2024 uncompetitive Mercedes car limited his stats"
+        ],
+        "personality": "Activist, fashion icon, GOAT debates, moved to Ferrari 2025, deeply passionate about diversity",
+        "rivalries": [
+            "Rosberg",
+            "Verstappen",
+            "Alonso"
+        ],
+        "notable": [
+            "7x World Champion — tied with Schumacher on record",
+            "103 wins — all time record",
+            "104 poles — all time record",
+            "197 podiums — all time record",
+            "Shock move to Ferrari announced January 2024"
+        ],
+        "2026form": "Ferrari move year 2. Strong in testing. Motivated to win historic 8th title. Ferrari suits his smooth driving style.",
+        "twitterAngle": "The GOAT chasing history at Ferrari — can he get that 8th title?",
+        "funFacts": [
+            "First Black F1 World Champion",
+            "Knighted by King Charles III",
+            "Has a dog named Roscoe who has his own Instagram"
+        ]
+    },
+    "VER": {
+        "fullName": "Max Verstappen",
+        "firstName": "Max",
+        "lastName": "Verstappen",
+        "team": "Red Bull Racing",
+        "number": 1,
+        "nationality": "Dutch",
+        "championships": 4,
+        "wins": 62,
+        "poles": 40,
+        "podiums": 112,
+        "careerStart": 2015,
+        "strengths": [
+            "raw pace",
+            "rain",
+            "tire management",
+            "mental strength",
+            "wheel to wheel"
+        ],
+        "weaknesses": [
+            "regulation changes can hurt Red Bull more than rivals",
+            "vocal about disliking 2026 rules"
+        ],
+        "personality": "Blunt, confident, sim racing obsessed, controversial, brutally honest",
+        "rivalries": [
+            "Hamilton",
+            "Leclerc",
+            "Norris"
+        ],
+        "notable": [
+            "4 consecutive championships 2021-2024",
+            "19 wins in single season 2023 — all time record",
+            "Youngest ever race winner at 18",
+            "Dominant era that defined an era"
+        ],
+        "2026form": "Slower in testing — Red Bull adapting to new regs. Verstappen vocal about disliking 2026 rules. First time in years he looks beatable.",
+        "twitterAngle": "Can the 4x champ adapt or will 2026 regs finally stop the unstoppable?",
+        "funFacts": [
+            "Obsessed with sim racing — competes professionally online",
+            "Father Jos was also an F1 driver",
+            "Lives in Monaco but hates the Monaco GP"
+        ]
+    },
+    "NOR": {
+        "fullName": "Lando Norris",
+        "firstName": "Lando",
+        "lastName": "Norris",
+        "team": "McLaren",
+        "number": 4,
+        "nationality": "British",
+        "championships": 0,
+        "wins": 4,
+        "poles": 8,
+        "podiums": 28,
+        "careerStart": 2019,
+        "strengths": [
+            "qualifying",
+            "wheel to wheel",
+            "adaptability",
+            "wet weather"
+        ],
+        "weaknesses": [
+            "historically inconsistent under pressure in title fights"
+        ],
+        "personality": "Gamer, streamer, funny, huge social media following, very popular with younger fans",
+        "rivalries": [
+            "Verstappen",
+            "Piastri"
+        ],
+        "notable": [
+            "First win 2024 Miami GP",
+            "McLaren revival key figure",
+            "Lost 2024 title to Verstappen in dramatic fashion",
+            "Most followed active F1 driver on social media"
+        ],
+        "2026form": "P2 in Bahrain Test Day 1 — 1:34.052. McLaren looking very competitive. Could be his title year.",
+        "twitterAngle": "Gen Z's F1 superstar — has the speed, needs the consistency to be champion",
+        "funFacts": [
+            "Started streaming on Twitch during COVID lockdowns",
+            "Has his own merchandise empire",
+            "Notoriously bad at keeping secrets about car performance"
+        ]
+    },
+    "PIA": {
+        "fullName": "Oscar Piastri",
+        "firstName": "Oscar",
+        "lastName": "Piastri",
+        "team": "McLaren",
+        "number": 81,
+        "nationality": "Australian",
+        "championships": 0,
+        "wins": 3,
+        "poles": 4,
+        "podiums": 15,
+        "careerStart": 2023,
+        "strengths": [
+            "smooth style",
+            "tyre management",
+            "learning curve",
+            "race pace"
+        ],
+        "weaknesses": [
+            "still developing racecraft in wheel to wheel battles"
+        ],
+        "personality": "Calm, calculated, dry humor, very composed under pressure",
+        "notable": [
+            "Dominant F2 and F3 champion before F1",
+            "Immediately competitive in debut 2023 season",
+            "Famous for denying Alpine seat — went to McLaren instead"
+        ],
+        "2026form": "Strong showing in testing. McLaren has two genuine title threats. Piastri quietly getting faster every race.",
+        "twitterAngle": "The silent assassin — underrated until he wins, then everyone acts surprised",
+        "funFacts": [
+            "Grew up in Melbourne — races at home in Australia GP",
+            "Known for deadpan humor in interviews",
+            "Denied Alpine seat in famous 2022 statement"
+        ]
+    },
+    "RUS": {
+        "fullName": "George Russell",
+        "firstName": "George",
+        "lastName": "Russell",
+        "team": "Mercedes",
+        "number": 63,
+        "nationality": "British",
+        "championships": 0,
+        "wins": 3,
+        "poles": 6,
+        "podiums": 18,
+        "careerStart": 2019,
+        "strengths": [
+            "qualifying",
+            "data analysis",
+            "consistency",
+            "political awareness"
+        ],
+        "personality": "Analytical, political, GPDA chairman, very media savvy",
+        "notable": [
+            "Won Sao Paulo 2022 in dominant fashion",
+            "Replaced Hamilton at Mercedes",
+            "GPDA chairman — drivers union representative"
+        ],
+        "2026form": "Mercedes looking strong — Russell aiming for title challenge. New PU advantage could be decisive.",
+        "twitterAngle": "Mr Saturday trying to become Mr Sunday — has the talent, needs the car",
+        "funFacts": [
+            "GPDA chairman — represents all drivers in negotiations with FIA",
+            "Studied at Sheffield University before F1",
+            "Won every junior category he entered"
+        ]
+    },
+    "ANT": {
+        "fullName": "Kimi Antonelli",
+        "firstName": "Kimi",
+        "lastName": "Antonelli",
+        "team": "Mercedes",
+        "number": 12,
+        "nationality": "Italian",
+        "championships": 0,
+        "wins": 0,
+        "poles": 0,
+        "podiums": 0,
+        "careerStart": 2025,
+        "strengths": [
+            "raw pace",
+            "qualifying",
+            "fearless approach"
+        ],
+        "personality": "Teen prodigy, named after Kimi Raikkonen, very calm for his age",
+        "notable": [
+            "Fastest in Bahrain Test 1 — 1:33.669 overall fastest",
+            "Only second year F1 driver in 2026",
+            "Mercedes prodigy signed at age 12",
+            "Crashed in Monza FP1 on F1 debut"
+        ],
+        "2026form": "Fastest overall in Test 1 at 1:33.669. Generational talent or lucky conditions? Either way — extraordinary.",
+        "twitterAngle": "17 year old going fastest in F1 testing — the future of the sport is literally a teenager",
+        "funFacts": [
+            "Named after Kimi Raikkonen by his F1-fan father",
+            "Signed by Mercedes at age 12",
+            "Speaks Italian, English, and some German"
+        ]
+    },
+    "ALO": {
+        "fullName": "Fernando Alonso",
+        "firstName": "Fernando",
+        "lastName": "Alonso",
+        "team": "Aston Martin",
+        "number": 14,
+        "nationality": "Spanish",
+        "championships": 2,
+        "wins": 32,
+        "poles": 22,
+        "podiums": 98,
+        "careerStart": 2001,
+        "strengths": [
+            "race craft",
+            "tire management",
+            "experience",
+            "rain",
+            "tactical genius"
+        ],
+        "personality": "Tactical genius, controversial, still competitive at 44, never satisfied",
+        "rivalries": [
+            "Schumacher",
+            "Hamilton",
+            "Vettel"
+        ],
+        "notable": [
+            "2x champion 2005-2006",
+            "Still racing in 2026 aged 44 — oldest driver on grid",
+            "Notoriously competitive — El Plan meme",
+            "Blocked Hamilton's title in 2007 as teammate"
+        ],
+        "2026form": "P8 in Bahrain Test Day 1. Aston Martin struggling with new regs. Alonso says they have most work to do.",
+        "twitterAngle": "El Plan — 44 years old and still refusing to retire, still faster than drivers half his age",
+        "funFacts": [
+            "El Plan became a famous meme after his radio messages",
+            "Won Le Mans 24h and Daytona 24h alongside F1",
+            "Has a museum dedicated to him in Oviedo, Spain"
+        ]
+    },
+    "SAI": {
+        "fullName": "Carlos Sainz",
+        "firstName": "Carlos",
+        "lastName": "Sainz",
+        "team": "Williams",
+        "number": 55,
+        "nationality": "Spanish",
+        "championships": 0,
+        "wins": 4,
+        "poles": 6,
+        "podiums": 23,
+        "careerStart": 2015,
+        "strengths": [
+            "consistency",
+            "racecraft",
+            "tire management",
+            "qualifying"
+        ],
+        "personality": "Smooth, professional, very popular in Spain, motivated after Ferrari exit",
+        "notable": [
+            "Won Ferrari seat battle vs Leclerc often in 2023",
+            "Left Ferrari for Williams 2025 after Hamilton announcement",
+            "Won races with Ferrari including Singapore 2023"
+        ],
+        "2026form": "Williams dark horse. Sainz motivated after Ferrari exit. Williams surprisingly competitive in testing.",
+        "twitterAngle": "Smooth operator who always overdelivers with whatever tools he has",
+        "funFacts": [
+            "Father Carlos Sainz Sr is a rally legend — 2x WRC champion",
+            "Won Singapore GP 2023 from P15 on grid",
+            "Left Ferrari with dignity after Hamilton announcement"
+        ]
+    },
+    "ALB": {
+        "fullName": "Alexander Albon",
+        "firstName": "Alexander",
+        "lastName": "Albon",
+        "team": "Williams",
+        "number": 23,
+        "nationality": "Thai",
+        "championships": 0,
+        "wins": 0,
+        "poles": 0,
+        "podiums": 2,
+        "careerStart": 2019,
+        "strengths": [
+            "tire management",
+            "consistency",
+            "car development",
+            "race pace"
+        ],
+        "notable": [
+            "Red Bull dropout who rebuilt career at Williams",
+            "P4 Bahrain Test Day 1 — 1:35.690",
+            "Gave kidney to friend in 2023"
+        ],
+        "2026form": "Williams looking surprisingly competitive. Albon key to their 2026 push. Most laps in Test 1.",
+        "twitterAngle": "The comeback king — Red Bull said no, Williams said yes, and he's proving them both right",
+        "funFacts": [
+            "Half Thai, half British — races under Thai flag",
+            "Donated kidney to friend Josh Darvill in 2023",
+            "Went from Red Bull dropout to Williams team leader"
+        ]
+    },
+    "GAS": {
+        "fullName": "Pierre Gasly",
+        "firstName": "Pierre",
+        "lastName": "Gasly",
+        "team": "Alpine",
+        "number": 10,
+        "nationality": "French",
+        "championships": 0,
+        "wins": 1,
+        "poles": 1,
+        "podiums": 4,
+        "careerStart": 2017,
+        "strengths": [
+            "racecraft",
+            "consistency",
+            "tire management"
+        ],
+        "notable": [
+            "Won Monza 2020 in stunning fashion",
+            "Red Bull dropout who rebuilt at AlphaTauri/Alpine",
+            "P5 in Bahrain Test Day 1"
+        ],
+        "2026form": "P5 in Bahrain Test Day 1. Alpine showing decent pace. Gasly looking motivated.",
+        "twitterAngle": "Monza 2020 winner who deserves a front running car — Alpine might finally give him one",
+        "funFacts": [
+            "Won Monza 2020 just weeks after friend Anthoine Hubert died at same circuit",
+            "Speaks French, English, and some Japanese from Honda days",
+            "Very popular in France — national hero"
+        ]
+    },
+    "HAD": {
+        "fullName": "Isack Hadjar",
+        "firstName": "Isack",
+        "lastName": "Hadjar",
+        "team": "Red Bull Racing",
+        "number": 6,
+        "nationality": "French",
+        "championships": 0,
+        "wins": 0,
+        "careerStart": 2025,
+        "strengths": [
+            "raw pace",
+            "qualifying",
+            "aggression"
+        ],
+        "notable": [
+            "Red Bull junior promoted to main team",
+            "P6 Bahrain Test Day 1 — 1:36.188",
+            "F2 champion before F1"
+        ],
+        "2026form": "Impressive for rookie. Red Bull's future alongside Verstappen. Showing maturity beyond his years.",
+        "twitterAngle": "The next Red Bull prodigy — following in Verstappen's footsteps, could be just as dangerous"
+    },
+    "OCO": {
+        "fullName": "Esteban Ocon",
+        "firstName": "Esteban",
+        "lastName": "Ocon",
+        "team": "Haas",
+        "number": 31,
+        "nationality": "French",
+        "championships": 0,
+        "wins": 1,
+        "careerStart": 2017,
+        "strengths": [
+            "consistency",
+            "tire management",
+            "racecraft"
+        ],
+        "notable": [
+            "Won Hungary 2021 in stunning upset",
+            "Left Alpine for Haas 2025",
+            "P7 Bahrain Test"
+        ],
+        "2026form": "P7 Bahrain Test. Haas looking improved with Ferrari power. Ocon motivated for fresh start.",
+        "twitterAngle": "Underrated midfield fighter who finally has a stable home at Haas"
+    },
+    "HUL": {
+        "fullName": "Nico Hulkenberg",
+        "firstName": "Nico",
+        "lastName": "Hulkenberg",
+        "team": "Audi",
+        "number": 27,
+        "nationality": "German",
+        "championships": 0,
+        "wins": 0,
+        "notable": [
+            "Most F1 starts without a podium until 2023 when he finally got one",
+            "Leading Audi's historic F1 entry",
+            "P9 Bahrain Test"
+        ],
+        "2026form": "P9 Bahrain Test. Audi's works entry debut season. Hulkenberg perfect ambassador for German manufacturer.",
+        "twitterAngle": "The Hulk — piloting F1's most exciting new manufacturer entry. Audi vs the world."
+    },
+    "PER": {
+        "fullName": "Sergio Perez",
+        "firstName": "Sergio",
+        "lastName": "Perez",
+        "team": "Cadillac",
+        "number": 11,
+        "nationality": "Mexican",
+        "championships": 0,
+        "wins": 13,
+        "podiums": 41,
+        "careerStart": 2011,
+        "strengths": [
+            "tire management",
+            "race pace",
+            "consistency"
+        ],
+        "notable": [
+            "Left Red Bull after 2024",
+            "Joined new Cadillac entry",
+            "Mexican racing icon",
+            "Huge fanbase in Mexico"
+        ],
+        "2026form": "Cadillac debut season. Perez rebuilding career with American manufacturer. Motivated to prove himself.",
+        "twitterAngle": "Checo finding a new home — can Cadillac give him the car to win again?"
+    },
+    "TSU": {
+        "fullName": "Yuki Tsunoda",
+        "firstName": "Yuki",
+        "lastName": "Tsunoda",
+        "team": "Racing Bulls",
+        "number": 22,
+        "nationality": "Japanese",
+        "championships": 0,
+        "wins": 0,
+        "careerStart": 2021,
+        "strengths": [
+            "qualifying",
+            "aggression",
+            "raw pace"
+        ],
+        "personality": "Fiery, emotional, very entertaining radio messages",
+        "2026form": "Racing Bulls looking to be competitive midfield team.",
+        "twitterAngle": "The most entertaining radio messages in F1 — Tsunoda never holds back"
+    },
+    "STR": {
+        "fullName": "Lance Stroll",
+        "firstName": "Lance",
+        "lastName": "Stroll",
+        "team": "Aston Martin",
+        "number": 18,
+        "nationality": "Canadian",
+        "championships": 0,
+        "wins": 0,
+        "podiums": 3,
+        "careerStart": 2017,
+        "strengths": [
+            "wet weather",
+            "street circuits"
+        ],
+        "notable": [
+            "Father Lawrence Stroll owns Aston Martin",
+            "Youngest driver to start from front row"
+        ],
+        "2026form": "Aston Martin struggling in testing. Stroll under pressure.",
+        "twitterAngle": "The billionaire's son who actually has genuine F1 pace — underrated by the internet"
+    }
+}

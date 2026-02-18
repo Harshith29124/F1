@@ -1,0 +1,71 @@
+{
+    "records": {
+        "mostWins": {
+            "driver": "Lewis Hamilton",
+            "count": 103
+        },
+        "mostPoles": {
+            "driver": "Lewis Hamilton",
+            "count": 104
+        },
+        "mostChampionships": {
+            "driver": "Lewis Hamilton / Michael Schumacher",
+            "count": 7
+        },
+        "mostPodiums": {
+            "driver": "Lewis Hamilton",
+            "count": 197
+        },
+        "youngestChampion": {
+            "driver": "Sebastian Vettel",
+            "age": "23 years 134 days",
+            "year": 2010
+        },
+        "oldestChampion": {
+            "driver": "Juan Manuel Fangio",
+            "age": "46 years 41 days",
+            "year": 1957
+        },
+        "mostWinsOneSeason": {
+            "driver": "Max Verstappen",
+            "count": 19,
+            "year": 2023
+        },
+        "mostConsecutiveWins": {
+            "driver": "Max Verstappen",
+            "count": 10,
+            "year": 2023
+        },
+        "youngestRaceWinner": {
+            "driver": "Max Verstappen",
+            "age": "18 years 228 days",
+            "year": 2016
+        }
+    },
+    "iconicMoments": [
+        "1994 — Senna's death at Imola changed F1 safety forever",
+        "2000 — Schumacher ends Ferrari's 21-year title drought",
+        "2008 — Hamilton wins title by 1 point in final corner of final lap",
+        "2016 — Hamilton vs Rosberg — greatest teammate battle of modern era",
+        "2021 — Abu Dhabi final lap — most controversial finish in F1 history",
+        "2023 — Verstappen wins 19 of 22 races — most dominant season ever",
+        "2024 — Hamilton announces shock Ferrari move — biggest transfer in F1 history"
+    ],
+    "dynasties": [
+        {
+            "era": "Schumacher-Ferrari",
+            "years": "2000-2004",
+            "championships": 5
+        },
+        {
+            "era": "Hamilton-Mercedes",
+            "years": "2014-2020",
+            "championships": 7
+        },
+        {
+            "era": "Verstappen-Red Bull",
+            "years": "2021-2024",
+            "championships": 4
+        }
+    ]
+}
