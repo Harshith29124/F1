@@ -1,0 +1,21 @@
+{
+    "name": "f1-twitter-bot-backend",
+    "version": "1.0.0",
+    "description": "Backend for F1 Twitter Bot",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "dependencies": {
+        "axios": "^1.6.2",
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "node-cron": "^3.0.3",
+        "twitter-api-v2": "^1.15.2",
+        "ws": "^8.14.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}

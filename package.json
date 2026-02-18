@@ -1,0 +1,14 @@
+{
+    "name": "f1-twitter-bot",
+    "version": "1.0.0",
+    "description": "F1 Twitter Bot fullstack application",
+    "scripts": {
+        "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+        "start-backend": "cd backend && npm start",
+        "start-frontend": "cd frontend && npm start",
+        "dev": "npx concurrently \"npm run start-backend\" \"npm run start-frontend\""
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.1"
+    }
+}
